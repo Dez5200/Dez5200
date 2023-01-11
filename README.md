@@ -1,10 +1,9 @@
-<h1>Hi, I'm Desmond, an <a href="https://linkedin.com/in/desmond-sexton">IT Professional</a>☺</h1>
+<h1>Hi, I'm Desmond, an <a href="https://linkedin.com/in/desmond-sexton">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Dez5200/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Dez5200/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Dez5200/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Dez5200/configure-ad)
