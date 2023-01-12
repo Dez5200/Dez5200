@@ -1,10 +1,12 @@
 <h1>Hi, I'm Desmond, an <a href="https://linkedin.com/in/desmond-sexton">IT Professional</a></h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
+
 <b>osTicket (Help Desk Ticketing System)</b>
 
 - [osTicket: Ticket Lifecycle Examples](https://github.com/Dez5200/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/Dez5200/configure-ad)
+
+<b>Microsoft Azure</b>
+ - [Configuring Active Directory within Azure VMs](https://github.com/Dez5200/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Dez5200/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
